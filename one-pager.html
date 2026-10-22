@@ -1,0 +1,379 @@
+<title>Gesondheid, Gesin, Welvaart</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Geist:wght@400;500;600;700;800&display=swap">
+<style>
+  /* Layout: one sheet on a bone ground. His own words first, then the loud stacked
+     headline, quiet commitments, the built-in support as cards, a bone band of day
+     numerals, a quiet two-up, and a night closer with the signature.
+     Tokens from the entrepreneurcoach DESIGN.md. Light-only on purpose, like the site. */
+  :root {
+    color-scheme: light;
+    --paper: #FFFFFF;
+    --bone: #F4F4F1;
+    --night: #0A0A0C;
+    --ink: #0E0E10;
+    --ink-soft: #2A2A2D;
+    --muted: #6F6F73;
+    --rule: #E0DED7;
+    --vermilion: #F25C2A;
+    --blue: #2D55FF;
+    --font-display: "Geist", "Inter Tight", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-script: "Caveat", "Brush Script MT", cursive;
+    --tracking-mega: -0.045em;
+    --tracking-tight: -0.02em;
+    --tracking-eyebrow: 0.18em;
+    --radius-lg: 18px;
+  }
+
+  html { background: var(--bone); }
+  body {
+    margin: 0;
+    background: var(--bone);
+    color: var(--ink);
+    font-family: var(--font-display);
+    font-size: 17px;
+    line-height: 1.55;
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    padding-block: clamp(16px, 4vw, 56px);
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+  }
+  ::selection { background: var(--vermilion); color: var(--paper); }
+
+  .sheet {
+    max-width: 920px;
+    margin-inline: auto;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+  .pad { padding-inline: clamp(24px, 6vw, 64px); }
+
+  h1, h2, h3, p, ul, ol { margin: 0; }
+  ul, ol { padding: 0; list-style: none; }
+
+  .eyebrow {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: var(--tracking-eyebrow);
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .eyebrow.red { color: var(--vermilion); }
+
+  /* —— Hero —— */
+  .hero { padding-block: clamp(40px, 7vw, 72px) clamp(32px, 5vw, 56px); display: grid; gap: 24px; }
+  .hero-rule { width: 88px; height: 6px; background: var(--vermilion); border-radius: 2px; }
+  .opening {
+    font-size: clamp(1.35rem, 2.6vw, 1.75rem);
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: var(--tracking-tight);
+    max-width: 36ch;
+    text-wrap: pretty;
+  }
+  .stack {
+    font-size: clamp(2.9rem, 10.5vw, 6.4rem);
+    font-weight: 800;
+    line-height: 0.88;
+    letter-spacing: var(--tracking-mega);
+    display: grid;
+    margin-top: 12px;
+  }
+  .stack .line { display: block; }
+  .stack .red { color: var(--vermilion); font-style: italic; }
+  .stack .stroke { -webkit-text-stroke: 1.5px var(--ink); color: transparent; }
+  .stack .note {
+    display: inline-block;
+    font-family: var(--font-script);
+    font-size: clamp(1.6rem, 4vw, 2.3rem);
+    font-weight: 700;
+    letter-spacing: 0;
+    color: var(--vermilion);
+    transform: rotate(-4deg) translateY(-0.35em);
+    margin-left: 0.3em;
+    white-space: nowrap;
+  }
+  .lead {
+    font-size: clamp(1.1rem, 1.5vw, 1.3rem);
+    line-height: 1.45;
+    color: var(--ink-soft);
+    max-width: 52ch;
+    text-wrap: pretty;
+  }
+
+  /* —— Commitments —— */
+  .block { padding-block: clamp(32px, 5vw, 48px); border-top: 1px solid var(--rule); }
+  .rows { margin-top: 20px; }
+  .row {
+    display: grid;
+    grid-template-columns: minmax(0, 13rem) minmax(0, 1fr);
+    gap: 24px;
+    padding-block: 18px;
+    border-top: 1px solid var(--rule);
+  }
+  .row:first-child { border-top: 0; padding-top: 4px; }
+  .row h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: var(--tracking-tight);
+    text-wrap: balance;
+  }
+  .row p { color: var(--ink-soft); max-width: 60ch; }
+
+  /* —— Built-in support —— */
+  .intro { margin-top: 14px; color: var(--ink-soft); max-width: 60ch; font-size: 1.1rem; line-height: 1.5; }
+  .intro strong { color: var(--ink); font-weight: 600; }
+  .built-grid {
+    margin-top: 24px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .card {
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+    display: grid;
+    gap: 8px;
+    align-content: start;
+    min-width: 0;
+  }
+  .card h3 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: var(--tracking-tight);
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .card h3::before {
+    content: "";
+    flex: none;
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background: var(--vermilion);
+    transform: translateY(-1px);
+  }
+  .card p { font-size: 15px; line-height: 1.5; color: var(--ink-soft); }
+
+  /* —— Day numerals —— */
+  .days { background: var(--bone); padding-block: clamp(32px, 5vw, 48px); }
+  .day-grid {
+    margin-top: 24px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 24px;
+  }
+  .day { display: grid; gap: 6px; align-content: start; min-width: 0; }
+  .day .num {
+    font-size: clamp(3rem, 7vw, 4.6rem);
+    font-weight: 800;
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    color: var(--blue);
+    font-variant-numeric: tabular-nums;
+  }
+  .day .num small {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: var(--tracking-eyebrow);
+    text-transform: uppercase;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 6px;
+  }
+  .day .date { font-weight: 600; font-size: 14px; color: var(--ink); margin-top: 4px; }
+  .day p { font-size: 15px; line-height: 1.45; color: var(--ink-soft); }
+
+  /* —— Two-up —— */
+  .two-up { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 48px; }
+  .two-up > div { display: grid; gap: 14px; align-content: start; min-width: 0; }
+  .two-up p:not(.eyebrow) { color: var(--ink-soft); }
+  .two-up strong { color: var(--ink); font-weight: 600; }
+
+  /* —— Closer —— */
+  .closer {
+    background: var(--night);
+    color: var(--paper);
+    padding-block: clamp(40px, 6vw, 64px);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px 40px;
+  }
+  .closer-line {
+    font-size: clamp(2.3rem, 7vw, 4.4rem);
+    font-weight: 800;
+    line-height: 0.92;
+    letter-spacing: -0.035em;
+    display: grid;
+  }
+  .closer-line .red { color: var(--vermilion); font-style: italic; }
+  .signature {
+    font-family: var(--font-script);
+    font-weight: 700;
+    font-size: clamp(3rem, 8vw, 4.2rem);
+    line-height: 1;
+    color: var(--vermilion);
+    transform: rotate(-3deg);
+    padding-bottom: 4px;
+  }
+
+  @media (max-width: 860px) {
+    .built-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 680px) {
+    .row { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+    .day-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; }
+    .two-up { grid-template-columns: minmax(0, 1fr); gap: 36px; }
+  }
+  @media (max-width: 560px) {
+    .built-grid { grid-template-columns: minmax(0, 1fr); }
+  }
+
+  @page { size: A4; margin: 10mm; }
+  @media print {
+    html, body { background: var(--paper); }
+    body { padding: 0; font-size: 12px; }
+    .sheet { border: 0; border-radius: 0; max-width: none; }
+    .sheet, .sheet * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .hero { padding-block: 6px 16px; gap: 12px; }
+    .opening { font-size: 1.3rem; }
+    .stack { font-size: 3.6rem; }
+    .block, .days { padding-block: 14px; }
+    .row { padding-block: 6px; }
+    .card { padding: 12px; }
+    .built-grid { gap: 10px; }
+    .closer { padding-block: 20px; }
+    .closer-line { font-size: 2.4rem; }
+  }
+</style>
+
+<main class="sheet" lang="af">
+  <header class="hero pad">
+    <div class="hero-rule" aria-hidden="true"></div>
+    <p class="opening">Ek weet ek sukkel hiermee. Maar nou het ek 'n projek daarvan gemaak, en ek gaan my beste probeer om hierby te hou.</p>
+    <h1 class="stack">
+      <span class="line red">Gesondheid.</span>
+      <span class="line">Gesin.</span>
+      <span class="line"><span class="stroke">Welvaart.</span><span class="note">← sal volg</span></span>
+    </h1>
+    <p class="lead">Te lank het ek dit verkeerd om gehad. Eers cashflow, dan ons, en my gesondheid heel laaste. Vanaf Maandag 26 Oktober draai ek dit om.</p>
+  </header>
+
+  <section class="block pad" aria-labelledby="doen">
+    <h2 class="eyebrow red" id="doen">Wat ek gaan doen</h2>
+    <ul class="rows">
+      <li class="row">
+        <h3>Geen sigarette nie.</h3>
+        <p>Nie een nie. Nikotienpleisters en -kougom help my deur, en ek mik om teen 23 Januarie klaar te wees met die pleisters.</p>
+      </li>
+      <li class="row">
+        <h3>Geen bier nie.</h3>
+        <p>Glad niks te drinke vir die eerste 2 weke nie. Daarna, as jy lus het, 'n glas wyn saam op aande wat ons kies.</p>
+      </li>
+      <li class="row">
+        <h3>Gym elke dag, 4 tot 5nm.</h3>
+        <p>Gewigte 3 dae, cardio 3 dae, rustig op Sondae. Dan 'n stap ná aandete, en jy's altyd welkom om saam te kom.</p>
+      </li>
+      <li class="row">
+        <h3>Dokter, tandarts, vel en hare.</h3>
+        <p>'n Volledige ondersoek by die dokter hierdie week. Dan die haarkapper (Sa 31 Okt), die tandarts (Di 3 Nov) en die velkliniek (Wo 11 Nov), alles reeds in my kalender.</p>
+      </li>
+      <li class="row">
+        <h3>Die geld.</h3>
+        <p>Wat ek op sigarette en bier uitgegee het, gaan elke week in 'n aparte rekening. Dis ons s'n, en ons besluit saam waarvoor dit is.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="block pad" aria-labelledby="ingebou">
+    <h2 class="eyebrow red" id="ingebou">Wat ek ingebou het</h2>
+    <p class="intro"><strong>Jy hoef my nie dop te hou nie. Dis my werk.</strong> Ek het dit so opgestel dat ek nie net op wilskrag staatmaak nie.</p>
+    <ul class="built-grid">
+      <li class="card">
+        <h3>Herinneringe in my kalender</h3>
+        <p>Gym elke dag om 16:00, die stap ná aandete, die Sondag-telkaart, my afsprake, wanneer die pleisters afskaal, en elke mylpaal tot by Dag 90.</p>
+      </li>
+      <li class="card">
+        <h3>Hulp om op te hou rook</h3>
+        <p>Pleisters en kougom, en ek vra die dokter oor voorskrifmedisyne. Dit verdubbel omtrent my kans teenoor net wilskrag.</p>
+      </li>
+      <li class="card">
+        <h3>'n Plan vir elke trigger</h3>
+        <p>Bier, koffie, ná ete, stres: elkeen het 'n plan. As die drang kom, wag ek 5 minute, haal diep asem, drink water en beweeg.</p>
+      </li>
+      <li class="card">
+        <h3>Die gholfbaan</h3>
+        <p>Geen alkohol by die baan nie, ook ná die eerste 2 weke. Water in die sak, en ek loop eerder as om 'n gholfkarretjie te ry.</p>
+      </li>
+      <li class="card">
+        <h3>'n Weeklikse telkaart</h3>
+        <p>Elke Sondagaand skryf ek neer hoe die week gegaan het: rookvrye dae, drankies, oefensessies en geld gespaar. Dit lê oop vir jou.</p>
+      </li>
+      <li class="card">
+        <h3>As ek gly</h3>
+        <p>Een sigaret is 'n glips, nie 'n terugval nie. Ek koop nie 'n pakkie nie en wag nie vir 'n nuwe Maandag nie. Ek is dadelik terug op die plan.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="days pad" aria-labelledby="dae">
+    <h2 class="eyebrow" id="dae">Die volgende 90 dae</h2>
+    <ol class="day-grid">
+      <li class="day">
+        <span class="num"><small>Dag</small>1</span>
+        <span class="date">Ma 26 Okt</span>
+        <p>Geen sigarette, geen alkohol. Gym begin.</p>
+      </li>
+      <li class="day">
+        <span class="num"><small>Dag</small>14</span>
+        <span class="date">So 8 Nov</span>
+        <p>Die ergste onttrekking is verby. Wyn saam, as jy wil.</p>
+      </li>
+      <li class="day">
+        <span class="num"><small>Dag</small>30</span>
+        <span class="date">Di 24 Nov</span>
+        <p>Jou eerlike terugvoer.</p>
+      </li>
+      <li class="day">
+        <span class="num"><small>Dag</small>90</span>
+        <span class="date">Sa 23 Jan</span>
+        <p>Klaar met die pleisters. Weer dokter toe.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="block pad two-up">
+    <div>
+      <h2 class="eyebrow red">Wat om te verwag</h2>
+      <p>Die eerste week gaan rof wees. Ek sal seker rusteloos en kortgebonde wees. Dis die nikotien wat uitgaan, nie jy nie, en jy mag my daaroor aanspreek.</p>
+      <p>Ek weet my rook en drink was swaar op jou. Ek wil jou eerder wys as vertel.</p>
+    </div>
+    <div>
+      <h2 class="eyebrow red">Wat ek vra</h2>
+      <p>Niks groots nie. Ek weet jy't al planne van my gehoor, so ek vra jou nie om my te glo nie. <strong>Kyk net die volgende 30 dae.</strong></p>
+      <p>Om my verantwoordbaar te hou is my werk, nie joune nie. Die herinneringe, die hulp en die telkaart is alles reeds ingebou.</p>
+      <p>Op Dag 30, Dinsdag 24 November, sê my eerlik hoe jy dink ek vaar.</p>
+    </div>
+  </section>
+
+  <footer class="closer pad">
+    <p class="closer-line">
+      <span>Geen toesprake nie.</span>
+      <span>Net die volgende</span>
+      <span class="red">90 dae.</span>
+    </p>
+    <p class="signature">Johannes</p>
+  </footer>
+</main>

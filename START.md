@@ -4,7 +4,9 @@
 
 - [ ] **Buy stop-smoking aids.** Nicotine patches plus a fast-acting form (gum, lozenge or mouth spray). The pharmacist picks the strength from how many you smoke a day. Using both together works better than either alone. Have them at home before Sunday night.
 - [ ] **Book a GP appointment for next week.** Ask for blood pressure, weight and bloods (liver, cholesterol, blood sugar) as a baseline, and ask about prescription stop-smoking medicine (varenicline or cytisine, depending on what's available).
-- [ ] **Book the skincare clinic** for 2–3 weeks out. Ask for a full skin and mole check as well; that's years of golf in the sun.
+- [ ] **Book the skincare clinic** for 2–3 weeks out (calendar hold: Wed 11 Nov 10:00). Ask for a full skin and mole check as well; that's years of golf in the sun.
+- [ ] **Book the dentist** for a check-up plus scale and polish (hold: Tue 3 Nov 09:00).
+- [ ] **Book the hairdresser** (hold: Sat 31 Oct 10:00).
 - [ ] **Buy basic skincare:** gentle cleanser, moisturiser, SPF 30–50. Put it next to your toothbrush.
 - [ ] **Sort the gym.** Pick one close to home or work, and book an induction or 2–3 sessions with a trainer to learn the lifts.
 - [ ] **Work out the money.** What do cigarettes and beer cost you per week? Write it in [LOG.md](LOG.md).
