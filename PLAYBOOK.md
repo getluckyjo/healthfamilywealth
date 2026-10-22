@@ -10,6 +10,14 @@ Get help; it isn't weakness. Stop-smoking medicine plus some support can make yo
 - **Or prescription medicine:** varenicline or cytisine. Ask the GP.
 - **Support:** your national quitline, your pharmacist, or a local stop-smoking service. Most are free.
 
+**Patches won't keep you hooked if you step down on schedule.** The smoke is what does the damage, not the nicotine. A patch releases nicotine slowly, without the hit a cigarette gives you in seconds, so it's hard to get addicted to. The patch handles the chemical side while you break the habits (beer, golf, after meals). Then you taper off:
+
+- Highest strength for about 6–8 weeks.
+- Step down over the next 2–4 weeks.
+- Off the patches by Day 90 (Sat 23 Jan 2027).
+
+Use the gum or lozenge only for real cravings and taper it alongside the patches. Don't switch to vapes or nicotine pouches. They deliver the fast hit and keep you hooked.
+
 **When a craving hits** (it passes in a few minutes):
 
 1. **Delay.** Tell yourself five minutes.

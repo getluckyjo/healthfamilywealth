@@ -64,5 +64,6 @@ Focus on smoking and alcohol. Keep everything else easy.
 ## Day 31–90 (25 Nov – 23 Jan): keep going
 
 - Same rules. Training keeps progressing. Weigh in every Monday.
+- Step the patches down (see [PLAYBOOK.md](PLAYBOOK.md#smoking)), aiming to be off them by Day 90.
 - **Mid-December to New Year is the riskiest stretch:** parties, year-end golf days, drinks with clients. Decide your rule for each event before you go, and have an exit time.
 - **Day 90, Sat 23 Jan 2027:** book a GP re-check and compare with your baseline.
