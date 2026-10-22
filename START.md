@@ -20,10 +20,10 @@ Stopping suddenly can be dangerous for heavy daily drinkers. If none of these ap
   - whether varenicline or cytisine is available here, as a backup;
   - go back if low mood lasts past week 2.
 - [ ] **Line up quit support.** This is the biggest gap in going it alone. Call the National Council Against Smoking Quitline on **011 720 3145** ([againstsmoking.co.za](https://www.againstsmoking.co.za/)) and set up 3–5 contacts over the first month. Ask the pharmacist or GP about local stop-smoking counselling too. Add an acceptance-based (ACT) quit app such as iCanQuit, if it's in your app store.
-- [ ] **Book the skincare clinic** for 2–3 weeks out (calendar hold: Wed 11 Nov 10:00). Ask for a full skin and mole check as well; that's years of golf in the sun.
+- [ ] **Book the skin check** for 2–3 weeks out (calendar hold: Wed 11 Nov 10:00). Best value: Tokai Skin, skin-cancer exam R850, WhatsApp or call 072 743 9363. That's years of golf in the sun.
 - [ ] **Book the dentist** for a check-up plus scale and polish (hold: Tue 3 Nov 09:00).
 - [ ] **Book the hairdresser** (hold: Sat 31 Oct 10:00).
-- [ ] **Buy basic skincare:** gentle cleanser, moisturiser, SPF 30–50. Put it next to your toothbrush.
+- [ ] **Buy basic skincare** (about R439, see [PLAYBOOK.md](PLAYBOOK.md#skin)): Nivea Men Sensitive Face Wash and Moisturiser from Clicks, Everysun Oil Control SPF50 from Dis-Chem. Put it next to your toothbrush.
 - [ ] **Sort the gym.** Pick one close to home or work, and book an induction or 2–3 sessions with a trainer to learn the lifts.
 - [ ] **Work out the money.** What do cigarettes and beer cost you per week? Write it in [LOG.md](LOG.md).
 

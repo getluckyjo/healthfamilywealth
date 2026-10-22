@@ -10,7 +10,7 @@ The evidence behind this is in [the research report](reports/Quitting%20smoking%
 
 - **Patch:** a steady base. Started Fri 23 Oct, a few days before quit day, which raises the odds of staying quit. Patches stronger than 21–22 mg add nothing.
 - **Gum or lozenge:** 4 mg if you smoke a lot, 2 mg otherwise. Use it **before** the times you'd normally smoke, not only when a craving hits.
-- **Support:** the National Council Against Smoking Quitline, **011 720 3145** ([againstsmoking.co.za](https://www.againstsmoking.co.za/)). Aim for 3–5 contacts over the first month. Add an acceptance-based (ACT) quit app such as iCanQuit, if it's available here.
+- **Support:** the National Council Against Smoking Quitline, **011 720 3145** ([againstsmoking.co.za](https://www.againstsmoking.co.za/)), or the GoSmokeFree programme at a Clicks clinic (Clicks Blue Route has one). Aim for 3–5 contacts over the first month. Add an acceptance-based (ACT) quit app such as iCanQuit, if it's available here.
 - **Backups:** varenicline or cytisine, if the GP says they're available in South Africa. Their main value for you is later, as relapse insurance.
 - **Avoid:** vapes and nicotine pouches. Most people who quit with a vape are still vaping a year later, and pouches have no evidence of helping anyone quit.
 
@@ -131,11 +131,25 @@ Golf means years of sun. Daily sunscreen is the one step with hard evidence: peo
 
 Keep the products next to your toothbrush so the routine rides on a habit you already have.
 
-**Clinic visit (hold: Wed 11 Nov):**
+**Starter kit, about R439** (prices as listed 22 Oct 2026):
+
+| Step | Product | Where | Price |
+|---|---|---|---|
+| Cleanser | Nivea Men Sensitive Face Wash | Clicks | R115 |
+| Moisturiser | Nivea Men Sensitive Moisturiser | Clicks | R150 (Nivea Men face care is 3-for-2 until 23 Nov) |
+| SPF | Everysun Oil Control Face SPF50 | Dis-Chem | R173.99 (R125.27 member special) |
+| Golf bag | An SPF50 stick | Clicks or Dis-Chem | about R100 |
+| Later, at night | A retinol, such as The Fundamentals 0.3% | Clicks | from R189 |
+
+**Clinic visit (hold: Wed 11 Nov): Tokai Skin, Dr Tammi Valentine.** She's a GP with a dermatology diploma and skin-cancer training. A skin-cancer exam is R850, and she can biopsy on site and refer to a dermatologist if needed. WhatsApp or call 072 743 9363.
 
 - A full skin and mole check, given all those years on the course.
-- A skin assessment and a routine built for you. Sunscreen first; they'll probably add a retinoid at night.
+- Ask her to check your routine. Sunscreen first; a retinol at night later.
 - Pay for it from the cigarette and beer money.
+- **Cheaper:** CANSA's nurse-led mole analysis in Athlone, R200 (021 689 5347). It isn't a doctor's exam.
+- **Specialist:** Dermatology House, Newlands, first consult R1,650 (021 300 0632).
+
+Full comparison: [research_notes/Skincare Southern Suburbs](research_notes/Skincare%20Southern%20Suburbs/skincare_options.md).
 
 ## Family
 
