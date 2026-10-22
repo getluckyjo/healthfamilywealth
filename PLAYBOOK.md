@@ -141,15 +141,21 @@ Keep the products next to your toothbrush so the routine rides on a habit you al
 | Golf bag | An SPF50 stick | Clicks or Dis-Chem | about R100 |
 | Later, at night | A retinol, such as The Fundamentals 0.3% | Clicks | from R189 |
 
-**Clinic visit (hold: Wed 11 Nov): Tokai Skin, Dr Tammi Valentine.** She's a GP with a dermatology diploma and skin-cancer training. A skin-cancer exam is R850, and she can biopsy on site and refer to a dermatologist if needed. WhatsApp or call 072 743 9363.
+**Glow facial (hold: Wed 11 Nov).** No medical check needed. Southern Suburbs options, prices as listed 22 Oct 2026:
 
-- A full skin and mole check, given all those years on the course.
-- Ask her to check your routine. Sunscreen first; a retinol at night later.
+| Where | Treatment | Price | Rating |
+|---|---|---|---|
+| Billy's Rondebosch (barbershop, Riverside Mall, 95 Main Rd) | Men's Performance Facial, 30 min | R250 | 4.9 (146, Booksy) |
+| Essential Beauty, Claremont | Express Facial for Men, 30 min | R355 | 4.9 (1,205, Fresha) |
+| CC Euphoria, Diep River | Male facial with beard cleanse, 1 hr | R399 | 4.9 (119, Fresha) |
+| The Skin Bar, 25 Putney Rd, Kenilworth | Free 25-min skin consult, then Glow & Go Hydrafacial + LED, 1 hr | R699 | 4.8 (115, Fresha) |
+
+- **Cheapest:** add Billy's R250 facial to the haircut on Sat 31 Oct. One visit, a fresh look at the end of week 1.
+- **The proper glow:** The Skin Bar's Hydrafacial + LED (R699) around Day 14–28, with the free consult first. Their Glow Green Deep Cleanse Facial is R480 if you want it cheaper.
+- **Once a month at most.** A facial is a boost that lasts days. The lasting glow comes from the daily SPF and moisturiser, sleep, water, and no smoke or alcohol.
 - Pay for it from the cigarette and beer money.
-- **Cheaper:** CANSA's nurse-led mole analysis in Athlone, R200 (021 689 5347). It isn't a doctor's exam.
-- **Specialist:** Dermatology House, Newlands, first consult R1,650 (021 300 0632).
 
-Full comparison: [research_notes/Skincare Southern Suburbs](research_notes/Skincare%20Southern%20Suburbs/skincare_options.md).
+Full comparison, including medical skin checks if you ever want one: [research_notes/Skincare Southern Suburbs](research_notes/Skincare%20Southern%20Suburbs/skincare_options.md).
 
 ## Family
 

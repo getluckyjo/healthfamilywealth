@@ -223,3 +223,28 @@ Sources:
 - **Specialist vs GP:** Tokai Skin and Skin Health are dermatology-trained GPs, not registered dermatologists. They are cheaper and can biopsy or refer. Dermatology House, Dermaclinic (Orrey, Lukhele), Cape Town Dermatologists, Dr Parker and Dr Asmal are specialists.
 - **Excluded as outside the area:** Panorama Dermatology Clinic (Panorama), Dr Kesiree Naidoo (Pinelands), Cosmetic Dermatology Centre and Skinfocus (Century City), and Specialist Dermatologists (Durban; used only as a price benchmark).
 - **Relevance to quitting on 26 Oct:** Clicks clinics run the GoSmokeFree programme. The price was not checked; Clicks says clinic prices vary by store.
+
+## 5. Glow facials (added 22 Oct 2026, after he ruled out a medical skin check)
+
+He has no moles or skin issues and wants a facial for glow at a good price. Prices as listed on 22 Oct 2026.
+
+| Venue | Suburb | Treatment | Price | Rating | Source |
+|---|---|---|---|---|---|
+| Billy's Rondebosch (barbershop) | Rondebosch, Riverside Mall, 95 Main Rd | Men's Performance Facial, 30 min | R250 | 4.9 (146, Booksy) | [Fresha men's facials](https://www.fresha.com/lp/en/tt/men's-facials/in/za-cape-town) |
+| Billy's Rondebosch (barbershop) | as above | Depot Full Facial: The Pure Refresh, 45 min | R500 | as above | [Booksy facials](https://booksy.com/en-za/s/facial/58493_plumstead) |
+| Essential Beauty | Claremont | Express Facial for Men, 30 min | R355 | 4.9 (1,205, Fresha) | [Fresha men's facials](https://www.fresha.com/lp/en/tt/men's-facials/in/za-cape-town) |
+| CC Euphoria | Diep River | Male facial with beard cleanse, 1 hr | R399 | 4.9 (119, Fresha) | as above |
+| Mommy Wellness | Claremont | The Royal Flush Facial, 1 hr | R620 | not shown | as above |
+| Biodermal Aesthetics Clinic | Claremont, 3 Noreen Ave | TLC (Tone, Lift & Contour) Facial, 1 hr | R695 | 4.8 (5, Booksy) | [Booksy facials](https://booksy.com/en-za/s/facial/58493_plumstead) |
+| Ta Bienveillance Beauty Spa | 15 Monty Rd (7800) | Express Facial, 30 min | R270 (special, from R300) | not shown | as above |
+| The Skin Bar | Kenilworth, 25 Putney Rd | Skin consultation, 25 min | Free | 4.8 (115, Fresha) | [Fresha](https://www.fresha.com/a/the-skin-bar-cape-town-25-putney-road-vei238j2) |
+| The Skin Bar | as above | Glow Green Deep Cleanse Facial, 45 min | R480 | as above | as above |
+| The Skin Bar | as above | The Glow Facial (dermaplaning), 1 hr | R580 | as above | as above |
+| The Skin Bar | as above | Glow & Go Hydrafacial + LED, 1 hr | R699 | as above | as above |
+| The Skin Bar | as above | Skin Starter Experience, 1 hr 25 min | R780 | as above | as above |
+| The Skin Bar | as above | Skin Reset Hydro Facial, 1 hr 25 min | R950 | as above | as above |
+| Glow Aesthetics | Rondebosch | Free skin consult; microneedling R2,250 (no basic facial listed) | — | 5.0 (58) | [Fresha](https://www.fresha.com/a/glow-aesthetics-cape-town-1-sunnybrae-road-tbuh5tc2) |
+
+Not usable: Novaderm's Fresha page showed no facial prices, and Artisan Skin's showed only the Visia analysis. The Booksy "Plumstead" results mostly listed City Bowl venues (Kloof St, Bree St, Gardens), so those were left out.
+
+**Recommendation:** Billy's R250 facial added to the haircut on Sat 31 Oct for the cheapest boost. The Skin Bar's free consult plus the Hydrafacial + LED (R699) for the proper glow around Day 14–28. Once a month at most.
