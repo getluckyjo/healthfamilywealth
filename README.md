@@ -24,7 +24,7 @@ This is a process, not a quick fix. But the changes need to be big.
 
 1. **Not a single puff.**
 2. **No beer.** Weeks 1–2: no alcohol at all. From week 3: one glass of wine, with her, at the table.
-3. **Move every day.** 30-minute walk every day. Weights Mon / Wed / Fri.
+3. **Gym every day, 16:00–17:00.** Weights Mon / Wed / Fri, cardio and core Tue / Thu / Sat, easy recovery on Sunday. Walk after dinner.
 4. **Skin twice a day.** Morning: cleanse, moisturise, SPF. Night: cleanse, moisturise. Two minutes.
 5. **Show, don't promise.** She'll believe day 30, not day 1.
 

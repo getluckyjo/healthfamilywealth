@@ -32,8 +32,8 @@
 - Patch on when you wake up.
 - Skin, morning (2 min).
 - Confirm the GP appointment.
-- Gym: Workout A, 2 sets of each, light weights (see [PLAYBOOK.md](PLAYBOOK.md#training)). No gym yet? Walk instead.
-- 30-minute walk. Walking is the best thing to do when a craving hits.
+- Gym at 16:00: Workout A, 2 sets of each, light weights (see [PLAYBOOK.md](PLAYBOOK.md#training)). No gym yet? Walk instead.
+- 30-minute walk after dinner. Walking is the best thing to do when a craving hits.
 - No alcohol. Water, soda water, tea.
 - Skin, night.
 - Bed early. Being tired makes cravings worse.
@@ -44,8 +44,8 @@ Focus on smoking and alcohol. Keep everything else easy.
 
 - Not a single puff. Use the NRT every day as directed.
 - No alcohol at all. Alcohol is the most common reason people go back to smoking.
-- Weights Mon / Wed / Fri, 2 sets of each, learning the movements.
-- Walk 30 minutes every day.
+- Gym every day at 16:00: weights Mon / Wed / Fri (2 sets of each, learning the movements), cardio and core Tue / Thu / Sat at a pace where you can still talk, easy recovery on Sunday.
+- Walk 30 minutes after dinner every day.
 - Skin morning and night.
 - Food: no diet yet. Protein at every meal, water, no beer. Dropping beer is already a big calorie cut.
 - GP visit this week.

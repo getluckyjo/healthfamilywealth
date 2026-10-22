@@ -51,8 +51,12 @@ Use the gum or lozenge only for real cravings and taper it alongside the patches
 
 The goal is to get stronger, lose fat, and feel better. Your golf will improve too.
 
-- **Mon / Wed / Fri:** weights, alternating workouts A and B. About 45 minutes.
-- **Every day:** a 30-minute walk. On golf days, walk the course.
+Gym every day, 16:00–17:00. That slot replaces the late-afternoon beer.
+
+- **Mon / Wed / Fri:** weights, alternating workouts A and B.
+- **Tue / Thu / Sat:** cardio and core (see below).
+- **Sun:** easy recovery: a swim, an easy bike ride, stretching, or 9 holes walking. Rest if your body is wrecked.
+- **Every evening:** a 30-minute walk after dinner, which is the old cigarette moment. On golf days, walk the course.
 - **Warm-up:** 5 minutes on a bike or rower, then a couple of light sets of the first exercise.
 - **Weeks 1–2:** 2 sets of each exercise. **Week 3 onwards:** 3 sets.
 - **Choosing a weight:** end each set feeling you could do 2–3 more reps. Once you hit the top of the rep range on every set, go up a little next time.
@@ -79,6 +83,12 @@ The goal is to get stronger, lose fat, and feel better. Your golf will improve t
 | Side plank | 2 × 20 s each side |
 
 **Rotation:** week 1 is A / B / A, week 2 is B / A / B, and so on.
+
+**Cardio and core (Tue / Thu / Sat)**
+
+- Warm-up: 5 minutes easy.
+- Cardio, 25–30 minutes: incline treadmill walk, bike or rower. Weeks 1–2: at a pace where you can still talk. Week 3 onwards: add intervals, 6 × (1 minute hard, 2 minutes easy).
+- Core and mobility, 10–15 minutes: dead bug, bird dog, side plank, hip and upper-back rotations (good for your golf swing).
 
 ## Food
 
