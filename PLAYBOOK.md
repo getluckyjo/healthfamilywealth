@@ -140,4 +140,5 @@ Putting health first doesn't cost wealth; it starts paying straight away.
 
 - Work out your weekly spend on cigarettes and beer, plus food and drinks at the course. Write it in [LOG.md](LOG.md).
 - Every week, move that amount into a separate account or savings pot.
-- Spend the first of it on the skincare clinic. After that, let it build. That's cashflow you didn't have before.
+- It pays for three things: the gym, your skincare (the clinic and the products), and the rest is for the two of you.
+- That's cashflow you didn't have before.
