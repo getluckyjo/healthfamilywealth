@@ -141,18 +141,18 @@ Keep the products next to your toothbrush so the routine rides on a habit you al
 | Golf bag | An SPF50 stick | Clicks or Dis-Chem | about R100 |
 | Later, at night | A retinol, such as The Fundamentals 0.3% | Clicks | from R189 |
 
-**Glow facial (hold: Wed 11 Nov).** No medical check needed. Southern Suburbs options, prices as listed 22 Oct 2026:
+**Specialist face skincare (hold: Wed 11 Nov).** No medical check needed; this is for the glow. Specialist skin clinics only, prices as listed 22 Oct 2026:
 
-| Where | Treatment | Price | Rating |
+| Clinic | What you get | Price | Rating |
 |---|---|---|---|
-| Billy's Rondebosch (barbershop, Riverside Mall, 95 Main Rd) | Men's Performance Facial, 30 min | R250 | 4.9 (146, Booksy) |
-| Essential Beauty, Claremont | Express Facial for Men, 30 min | R355 | 4.9 (1,205, Fresha) |
-| CC Euphoria, Diep River | Male facial with beard cleanse, 1 hr | R399 | 4.9 (119, Fresha) |
-| The Skin Bar, 25 Putney Rd, Kenilworth | Free 25-min skin consult, then Glow & Go Hydrafacial + LED, 1 hr | R699 | 4.8 (115, Fresha) |
+| **The Skin Bar**, 25 Putney Rd, Kenilworth | Skin-only studio. Free 25-min skin consult, then the Glow & Go Hydrafacial + LED (1 hr). | Consult free; Hydrafacial + LED **R699**; Skin Reset Hydro Facial R950 | 4.8 (115, Fresha) |
+| **Artisan Skin**, 19 Constantia Main Rd, Plumstead | Skincare clinic and official Hydrafacial partner. Free 1-hr Visia skin analysis: a camera scan of sun damage, pores and texture, then a plan. | Analysis free; treatment prices not published, given at the analysis | 5.0 (3,259, Fresha) |
+| **Tokai Skin**, Tokai | Doctor-led aesthetics: peels, Dermapen. | Aesthetic consult R0 if treated the same day; treatment prices not published | 4.93 (71, RecoMed) |
+| **Skin Renewal**, Claremont or Constantia | Doctor-supervised aesthetic clinic. Onyx Skin Rejuvenation (peel-based). | R1,200 / R1,500 / R1,900; consult fee not published | own-site reviews only |
 
-- **Cheapest:** add Billy's R250 facial to the haircut on Sat 31 Oct. One visit, a fresh look at the end of week 1.
-- **The proper glow:** The Skin Bar's Hydrafacial + LED (R699) around Day 14–28, with the free consult first. Their Glow Green Deep Cleanse Facial is R480 if you want it cheaper.
-- **Once a month at most.** A facial is a boost that lasts days. The lasting glow comes from the daily SPF and moisturiser, sleep, water, and no smoke or alcohol.
+- **Best value:** The Skin Bar. Free consult, then the Hydrafacial + LED for R699. Book on Fresha.
+- **Best start if you want a proper plan:** Artisan Skin's free Visia analysis. It's the highest-rated in the area. Ask for treatment prices there before you commit.
+- **Once a month at most.** A treatment is a boost that lasts days to weeks. The lasting glow comes from the daily SPF and moisturiser, sleep, water, and no smoke or alcohol.
 - Pay for it from the cigarette and beer money.
 
 Full comparison, including medical skin checks if you ever want one: [research_notes/Skincare Southern Suburbs](research_notes/Skincare%20Southern%20Suburbs/skincare_options.md).

@@ -248,3 +248,12 @@ He has no moles or skin issues and wants a facial for glow at a good price. Pric
 Not usable: Novaderm's Fresha page showed no facial prices, and Artisan Skin's showed only the Visia analysis. The Booksy "Plumstead" results mostly listed City Bowl venues (Kloof St, Bree St, Gardens), so those were left out.
 
 **Recommendation:** Billy's R250 facial added to the haircut on Sat 31 Oct for the cheapest boost. The Skin Bar's free consult plus the Hydrafacial + LED (R699) for the proper glow around Day 14–28. Once a month at most.
+
+## 6. Specialist face skincare only (he asked for specialist clinics, not barber or beauty-salon facials)
+
+- **Artisan Skin** (19 Constantia Main Rd, Plumstead/Constantia): its website ([artisanskin.co.za](https://www.artisanskin.co.za/), [treatments](https://www.artisanskin.co.za/treatments/)) lists Hydrafacials and facials but **shows no prices**. Fresha lists only the Visia skin analysis, 1 hr, "from ZAR 0". Search snippets describe it as Cape Town's official Hydrafacial partner. Fresha rating 5.0 (3,259).
+- **Tokai Skin** ([tokaiskin.co.za](https://tokaiskin.co.za/)): the home page lists aesthetics but **no treatment prices**. RecoMed shows the aesthetic consult at R0 with same-day treatment.
+- **Skin Renewal**: the [price index](https://www.skinrenewal.co.za/sections/prices) shows no consult fee. Onyx Skin Rejuvenation is R1,200 / R1,500 / R1,900 per the earlier notes.
+- **The Skin Bar** (Kenilworth): full menu with prices in section 5.
+
+The barber and beauty-salon facials in section 5 (Billy's, Essential Beauty, CC Euphoria) were dropped from the plan at his request.
