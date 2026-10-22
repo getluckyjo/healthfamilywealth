@@ -1,9 +1,25 @@
 # Start
 
+## Today or tomorrow: the safety check
+
+Before you stop drinking, check you're not physically dependent on alcohol. **See the GP before Monday if any of these apply:**
+
+- you drink every day;
+- you wake with shakes, sweats or nausea;
+- you drink to ease them;
+- you've ever had a fit or hallucinations when you stopped;
+- you score 11–12 on the [AUDIT-C questionnaire](https://www.drinkaware.co.uk/facts/information-about-alcohol/alcohol-and-the-facts/understanding-the-alcohol-use-disorders-identification-test).
+
+Stopping suddenly can be dangerous for heavy daily drinkers. If none of these applies, the GP visit next week is fine.
+
 ## Before Monday (Thu 22 – Sun 25 Oct)
 
-- [ ] **Buy stop-smoking aids.** Nicotine patches plus a fast-acting form (gum, lozenge or mouth spray). The pharmacist picks the strength from how many you smoke a day. Using both together works better than either alone. Have them at home before Sunday night.
-- [ ] **Book a GP appointment for next week.** Ask for blood pressure, weight and bloods (liver, cholesterol, blood sugar) as a baseline, and ask about prescription stop-smoking medicine (varenicline or cytisine, depending on what's available).
+- [ ] **Friday: pharmacy, and the patch goes on.** Buy nicotine patches plus gum or lozenges. Tell the pharmacist how many cigarettes you smoke a day so they can match the strength. Gum comes in 2 mg and 4 mg; 4 mg works better for heavier smokers. **Put the first patch on on Friday, while you're still smoking.** Starting a few days early raises the odds of staying quit. If you feel sick, dizzy or your heart races, smoke less; don't take the patch off.
+- [ ] **Book the GP for next week**, plus a follow-up around Day 15 (calendar hold: Mon 9 Nov 09:00). Take this list:
+  - AUDIT alcohol screen, liver tests, blood pressure, weight and waist, as your baseline;
+  - whether varenicline or cytisine is available here, as a backup;
+  - go back if low mood lasts past week 2.
+- [ ] **Line up quit support.** This is the biggest gap in going it alone. Call the National Council Against Smoking Quitline on **011 720 3145** ([againstsmoking.co.za](https://www.againstsmoking.co.za/)) and set up 3–5 contacts over the first month. Ask the pharmacist or GP about local stop-smoking counselling too. Add an acceptance-based (ACT) quit app such as iCanQuit, if it's in your app store.
 - [ ] **Book the skincare clinic** for 2–3 weeks out (calendar hold: Wed 11 Nov 10:00). Ask for a full skin and mole check as well; that's years of golf in the sun.
 - [ ] **Book the dentist** for a check-up plus scale and polish (hold: Tue 3 Nov 09:00).
 - [ ] **Book the hairdresser** (hold: Sat 31 Oct 10:00).
@@ -13,8 +29,9 @@
 
 ### Camp (this weekend)
 
-- Enjoy it. Monday is the start, so don't spend the weekend white-knuckling.
+- Enjoy it. Monday is the start, so don't spend the weekend white-knuckling. The patch is already on.
 - Tell the guys you're quitting on Monday. Saying it out loud to people who've known you for years makes it real.
+- **Ask one of them to be your referee** for the deposit contract (see [PLAYBOOK.md](PLAYBOOK.md#money)). Not your wife: she stays a supporter, not an inspector.
 - Whatever is in your pocket is the last pack. Don't buy one "for Monday".
 - Drink water between drinks. Get home on Sunday in decent shape.
 - Come home when you said you would. How you walk in the door on Sunday is the first thing she'll see.
@@ -23,49 +40,59 @@
 
 - [ ] Bin the remaining cigarettes, the lighter and the ashtray. Check the car, the golf bag and jacket pockets.
 - [ ] Give away the beer in the fridge.
-- [ ] Tell her the plan. Keep it short and specific, with no big speech. For example:
-  > "From tomorrow I'm stopping smoking and taking a break from drinking, and I'm starting at the gym. I know you've heard it before, so I'm not asking you to believe me. Just watch.
-  > The first week I'll probably be short-tempered. That's the nicotine, not you."
-- [ ] Lay out a patch for the morning, skincare by the sink, gym clothes ready.
+- [ ] **Write your if-then plans and the slip drill on paper** (examples in [PLAYBOOK.md](PLAYBOOK.md#smoking)). Paper works better than a phone note.
+- [ ] Tell her the plan, and give her the one-pager. Keep it short, with no big speech. Agree what "watching" means:
+  - she notices and says what she sees; she doesn't check, quiz or remind;
+  - if you slip, you tell her yourself, the same day;
+  - she's welcome on the after-dinner walk.
+
+  Warn her about week 1: "I'll probably be short-tempered. That's the nicotine, not you."
+- [ ] Lay out skincare by the sink and gym clothes for tomorrow.
+- [ ] Fill in the baseline in [LOG.md](LOG.md).
 - [ ] Early night.
 
 ## Monday 26 Oct: Day 1
 
-- Patch on when you wake up.
+- Fresh patch on when you wake up. Gum or lozenge in your pocket.
+- Use the gum or lozenge **before** the times you'd normally smoke (after coffee, after meals, the drive), not only when a craving hits.
 - Skin, morning (2 min).
-- Confirm the GP appointment.
+- Confirm the GP appointment and your first quitline contact.
 - Gym at 16:00: Workout A, 2 sets of each, light weights (see [PLAYBOOK.md](PLAYBOOK.md#training)). No gym yet? Walk instead.
-- 30-minute walk after dinner. Walking is the best thing to do when a craving hits.
+- Brisk 30-minute walk after dinner. Walking is the fastest craving killer there is.
 - No alcohol. Water, soda water, tea.
 - Skin, night.
 - Bed early. Being tired makes cravings worse.
 
-## Weeks 1–2 (26 Oct – 8 Nov): the two big ones
+## Weeks 1–2 (26 Oct – 8 Nov): the danger window
 
-Focus on smoking and alcohol. Keep everything else easy.
+Most relapses happen in the first 8 days, and anyone who smokes at all in week 2 is very likely to be smoking at 6 months. Protect these two weeks above everything else.
 
-- Not a single puff. Use the NRT every day as directed.
-- No alcohol at all. Alcohol is the most common reason people go back to smoking.
-- Gym every day at 16:00: weights Mon / Wed / Fri (2 sets of each, learning the movements), cardio and core Tue / Thu / Sat at a pace where you can still talk, easy recovery on Sunday.
-- Walk 30 minutes after dinner every day.
+- Not a single puff. Patch every day, gum or lozenge before your usual smoking times.
+- No alcohol at all.
+- **Stay away from the bar and the smoking spots for 28 days.** At the course: water only, walk instead of taking a cart, no 19th hole. Use the 16:00 gym slot as your exit.
+- Gym every day at 16:00: weights Mon / Wed / Fri (2 sets, learning the movements), cardio and core Tue / Thu / Sat at a pace where you can still talk, easy recovery on Sunday.
+- Brisk walk after dinner every day.
 - Skin morning and night.
-- Food: no diet yet. Protein at every meal, water, no beer. Dropping beer is already a big calorie cut.
-- GP visit this week.
-- Golf: water only, walk instead of taking a cart, skip the 19th hole for two weeks. That's where all three habits meet.
+- Food: no diet. Protein at every meal, water, no beer. The goal is to hold your weight, not lose it.
+- GP visit and 2–3 quit-support contacts this fortnight.
 
-**What to expect:** days 1–3 are the hardest. You'll be irritable, restless, hungry and sleep badly. It eases over 2–4 weeks. Each craving passes in a few minutes.
+**What to expect:** days 1–3 are the hardest. You'll be irritable, restless, hungry and sleep badly. It eases over 2–4 weeks. Each craving passes in minutes, and it always feels like it will last longer than it does.
 
-## Weeks 3–4 (9 – 24 Nov): build
+## Weeks 3–4 (9 – 22 Nov): hold the line
 
+- **Mon 9 Nov:** GP follow-up.
 - Weights up to 3 sets, adding weight gradually.
-- Wine comes back as a ritual: one glass, with her, on agreed evenings (for example Friday and Saturday). Beer stays off.
-- Food rules step up (see [PLAYBOOK.md](PLAYBOOK.md#food)).
-- Skincare clinic visit. Add what they recommend.
-- **Day 30, Tue 24 Nov:** fill in the review in [LOG.md](LOG.md).
+- Still no alcohol, still no bar and no smoking spots.
+- Skincare clinic visit. Daily sunscreen comes first; add what else they recommend.
+- **Day 28, Sun 22 Nov:** 28 days smoke-free. You're now about 5 times more likely to stay quit.
 
-## Day 31–90 (25 Nov – 23 Jan): keep going
+## Day 29 onwards (from Mon 23 Nov)
 
-- Same rules. Training keeps progressing. Weigh in every Monday.
-- Step the patches down (see [PLAYBOOK.md](PLAYBOOK.md#smoking)), aiming to be off them by Day 90.
+- **Wine comes back as a ritual:** one glass, with her, at home, on agreed evenings. Agree the pour size first. Never on golf days. Beer stays off.
+- **The golf course stays alcohol-free** until at least Day 90 and in practice for good, since beer is off anyway.
+- **Day 30, Tue 24 Nov:** fill in the review in [LOG.md](LOG.md), and ask her how she thinks you're doing.
+- Same rules. Training keeps progressing. Weigh in and measure your waist every Monday. Hold your weight; don't diet.
 - **Mid-December to New Year is the riskiest stretch:** parties, year-end golf days, drinks with clients. Decide your rule for each event before you go, and have an exit time.
-- **Day 90, Sat 23 Jan 2027:** book a GP re-check and compare with your baseline.
+- **Patches:** step down only when cravings are rare (see [PLAYBOOK.md](PLAYBOOK.md#smoking)). Drop the gum or lozenge first.
+- **Day 90, Sat 23 Jan 2027:** GP re-check against your baseline. Aim to be off the patches, but if cravings or near-misses are still common, keep going to about 24 weeks (mid-April). Stopping too early is the bigger risk.
+- **Mon 1 Feb 2027:** the fat-loss phase starts (see [PLAYBOOK.md](PLAYBOOK.md#food)).
