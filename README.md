@@ -54,4 +54,5 @@ Health first doesn't cost wealth. It pays straight away: every week without ciga
 - [START.md](START.md): this weekend, Monday, and the first 90 days
 - [PLAYBOOK.md](PLAYBOOK.md): how to handle each area (smoking, alcohol, training, food, skin, family, money)
 - [LOG.md](LOG.md): baseline, deposit contract, weekly scorecard and slip log
+- [DIARY.md](DIARY.md): how it's actually going, in my own words
 - [The research](reports/Quitting%20smoking%20and%20alcohol%202026.md): what the 2024–2026 evidence says, and why the plan looks like this
