@@ -69,7 +69,7 @@ Most relapses happen in the first 8 days, and anyone who smokes at all in week 2
 
 - Not a single puff. Patch every day, gum or lozenge before your usual smoking times.
 - No alcohol at all.
-- **Stay away from the bar and the smoking spots for 28 days.** At the course: water only, walk instead of taking a cart, no 19th hole. Use the 16:00 gym slot as your exit.
+- **Stay away from the bar and the smoking spots for 28 days.** At the course: water or alcohol-free beer (as long as it doesn't bring on a craving), walk instead of taking a cart, no 19th hole. Use the 16:00 gym slot as your exit.
 - Gym every day at 16:00: weights Mon / Wed / Fri (2 sets, learning the movements), cardio and core Tue / Thu / Sat at a pace where you can still talk, easy recovery on Sunday.
 - Brisk walk after dinner every day.
 - Skin morning and night.

@@ -31,7 +31,7 @@ The evidence behind this is in [the research report](reports/Quitting%20smoking%
 
 | If… | Then I… |
 |---|---|
-| a member or client offers me a beer | order sparkling water with lime |
+| a member or client offers me a beer | order an alcohol-free beer or sparkling water |
 | the guys step out to smoke | take a lozenge and walk the other way |
 | I have a bad hole or a bad round | do 10 breaths and finish the hole with water |
 | I finish my coffee | have gum ready and change where I drink it for 2 weeks |
@@ -56,7 +56,7 @@ The evidence behind this is in [the research report](reports/Quitting%20smoking%
 - **Until Day 28 (Sun 22 Nov):** no alcohol at all. On drinking days the risk of a smoking slip is about five times higher.
 - **From Mon 23 Nov:** beer stays off. One glass of wine with her, at home, on agreed evenings. Agree the pour size first. Never on golf days, not alone, not "just one more".
 - **The golf course and the club stay alcohol-free** until at least Day 90 and in practice for good. Alcohol-linked slips happen mostly in bars, with friends, around other smokers.
-- **Golf, camp, social:** soda water and lime, or a soft drink. Skip alcohol-free beer for at least the first month: it can stir cravings in heavy drinkers, and your beer and cigarettes share the same ritual. After that, try it only if it doesn't make you want either.
+- **Golf, camp, social:** alcohol-free beer is fine, as long as it doesn't bring on a craving. It didn't on Day 3, after 18 holes and a meeting. The test each time: if you want a cigarette or a real beer in the half hour after one, switch to sparkling water, a Rekrd or a soft drink for that day, and note it in the slip log.
 - ⚠️ **Safety:** if you've been drinking heavily every day and get shakes, sweats, a racing heart or bad anxiety after stopping, see a doctor straight away. Stopping suddenly after heavy daily drinking can be dangerous.
 - **If the wine-only plan stops working:** ask the GP about medicines for drinking (naltrexone, acamprosate). They're a second line, not a first.
 
